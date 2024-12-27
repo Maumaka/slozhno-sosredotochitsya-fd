@@ -334,7 +334,7 @@
 
 @media (min-width: 767px) {
   .section_what .card {
-    padding-top: 10px; 
+    padding-top: 10px;
   }
 }
 
@@ -363,12 +363,12 @@
   font-size: 18px;
   line-height: 130%;
   background: var(--universal-color);
-  margin-top: 20px
+  margin-top: 10px
 }
 
 @media (min-width: 767px) {
   .main-lower-text {
-    margin-top: 10px;
+    margin-top: 20px;
   }
 }
 
