@@ -23,10 +23,6 @@
 }
 
 .theme-dark .page {
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
    /* Вам также нужно будет написать ряд подобных селекторов */
 }
 

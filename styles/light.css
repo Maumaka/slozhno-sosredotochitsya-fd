@@ -24,9 +24,21 @@
 }
 
 .theme-light .page {
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
    /* Вам также нужно будет написать ряд подобных селекторов */
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-image: url('/images/cover-image-light.png');
+    --universal-color: #ff8dcb;
+    --font-family: "IBM Plex Mono", sans-serif;
+    --title-color: #ffc2e6;
+    --shadow-color: #ff8dcb;
+    --main-text-color: #353430;
+    --main-second-color: #353430;
+    --main-header-color: #353430;
+    --border-active: rgb(53,52,48);
+    --border-hover: rgb(50,49,45,0.4);
+    --flex-none: none;
+  }
 }
