@@ -116,7 +116,7 @@
 }
 
 @media (min-width: 1023px) {
-  .header__theme-menu{
+  .header__theme-menu {
     justify-self: center;
   }
 
@@ -152,7 +152,7 @@
 
 .header__theme-menu-button:focus-visible {
   border-bottom: 1px solid var(--border-active);
-  outline: none;  
+  outline: none;
 }
 
 .link_in_text {
