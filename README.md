@@ -1,1 +1,1 @@
-https://github.com/Maumaka/slozhno-sosredotochitsya-fd
+https://github.com/yandex-praktikum/slozhno-sosredotochitsya-fd
