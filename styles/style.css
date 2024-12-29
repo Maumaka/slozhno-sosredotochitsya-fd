@@ -142,7 +142,6 @@
 
 .header__theme-menu-button_active {
   border: 1px solid var(--border-active);
-  padding: 0px 13px;
 }
 
 .header__theme-menu-button:hover {
