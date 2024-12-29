@@ -10,6 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --background-image: url('/images/cover-image-light.png');
+  --bacground-page-color: #fff1f7;
   --universal-color: #ff8dcb;
   --font-family: "IBM Plex Mono", sans-serif;
   --title-color: #ffc2e6;
@@ -30,6 +31,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --background-image: url('/images/cover-image-light.png');
+    --bacground-page-color: #fff1f7;
     --universal-color: #ff8dcb;
     --font-family: "IBM Plex Mono", sans-serif;
     --title-color: #ffc2e6;

@@ -10,6 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --background-image: url('/images/cover-image-dark.png');
+  --bacground-page-color: #000028;
   --universal-color: #ff0070;
   --font-family: "IBM Plex Mono", sans-serif;
   --title-color: #db00ff;
